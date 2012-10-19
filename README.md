@@ -12,7 +12,7 @@ The configuration can be done in the global settings of each node.
 Example
 -------
 
-![][https://cittools.github.com/nodeinitscript/screenshot.png]
+![Example configuration](https://cittools.github.com/nodeinitscript/screenshot.png)
 
 ### Output
 
